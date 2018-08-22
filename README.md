@@ -2,7 +2,7 @@
 高仿币世界的分享图片功能
 
 效果图：
-
+![image](https://github.com/zhoudodo/ShareImagePopu/blob/master/GIF.gif) 
 
 如何使用该功能
 1、添加依赖
